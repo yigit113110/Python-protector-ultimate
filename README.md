@@ -6,7 +6,7 @@ ANTIVIRUSES LIKE KASPERSKY THINKS THIS IS A VIRUS HOWEVER ITS NOT. IF U DONT TRU
 ---
 -- written with python 3.14
 ## 🚀 Key Features
-* **I used ai however its only like %40 ai, i only used it for creating a really powerfull obfuscator and encryptor
+* **I** used **ai** however its only like %40 ai, i only used it for creating a really powerfull obfuscator and encryptor
 
 * **Polymorphism (`secrets`):** Randomizes all variable and function names on every build to eliminate static signatures.
 * **Multi-Stage Encryption:** Combines Zlib compression, custom bit-shift/XOR matrices, and **AES-256-CBC** encryption.
